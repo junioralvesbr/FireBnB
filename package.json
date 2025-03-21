@@ -1,0 +1,23 @@
+{
+  "name": "firebnb",
+  "version": "1.0.0",
+  "description": "https://www.lumeralabs.com.br/challenge",
+  "homepage": "https://github.com/junioralvesbr/FireBnB#readme",
+  "bugs": {
+    "url": "https://github.com/junioralvesbr/FireBnB/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junioralvesbr/FireBnB.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
